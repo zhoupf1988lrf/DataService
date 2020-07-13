@@ -1,0 +1,14 @@
+﻿@using NetCore.Model.Models;
+@{
+    ViewData["Title"] = "Info";
+    List<User> uList = base.ViewBag.users;
+}
+
+<h1>Info</h1>
+@for (int i = 0; i < uList.Count; i++)
+{
+    <p>@uList[i].Name</p>
+}
+
+<img href="https://www.cmd5.com/images/logo.png" />
+

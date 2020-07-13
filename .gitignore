@@ -3,3 +3,20 @@
 ################################################################################
 
 /.vs
+/Core31DemoProject/.vs/Core31DemoProject
+/Core31DemoProject/ContosoUniversity/obj
+/Core31DemoProject/ContosoUniversity/bin/Debug/netcoreapp3.1
+/Core31DemoProject/Core31DemoProject/obj
+/Core31DemoProject/Core31DemoProject/log
+/Core31DemoProject/Core31DemoProject/bin/Debug/netcoreapp3.1
+/Core31DemoProject/Core31WebApi/obj
+/Core31DemoProject/Core31WebApi/Core31WebApi.csproj.user
+/Core31DemoProject/Core31WebApi/bin/Debug/netcoreapp3.1
+/Core31DemoProject/NetCore.Interface/obj
+/Core31DemoProject/NetCore.Interface/bin/Debug/netstandard2.0
+/Core31DemoProject/NetCore.Model/obj
+/Core31DemoProject/NetCore.Model/bin/Debug/netstandard2.0
+/Core31DemoProject/NetCore.Service/obj
+/Core31DemoProject/NetCore.Service/bin/Debug/netstandard2.0
+/Core31DemoProject/NetCore.Utlity/obj
+/Core31DemoProject/NetCore.Utlity/bin/Debug/netstandard2.0
